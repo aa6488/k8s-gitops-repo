@@ -12,6 +12,6 @@ resources:
   - gitops-service.yaml
 
 images:
-  - name: docker.io/YOUR_DOCKERHUB_USER/demo
-    newName: docker.io/YOUR_DOCKERHUB_USER/demo
+  - name: docker.io/aa6488/demo
+    newName: docker.io/aa6488/demo
     newTag: PLACEHOLDER
