@@ -14,4 +14,4 @@ resources:
 images:
   - name: docker.io/aa6488/demo
     newName: docker.io/aa6488/demo
-    newTag: 112cd34
+    newTag: 328493d
